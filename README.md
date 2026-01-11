@@ -1,4 +1,5 @@
-![Uploading Penguin Coding GIF by Pudgy Penguins.gif…](Penguin Coding GIF by Pudgy Penguins.gif)
+
+![Penguin Coding GIF by Pudgy Penguins](https://github.com/user-attachments/assets/0d450271-4ec0-46bb-8230-aeab5347f0c2)
 
 
 # 💫 About Me:
