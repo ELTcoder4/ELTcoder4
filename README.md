@@ -1,4 +1,4 @@
-[!(https://github.com/ELTcoder4/ELTcoder4/blob/1c060923f9d89a2e9a0a6e4108998492e899eaab/Penguin%20Coding%20GIF%20by%20Pudgy%20Penguins.gif)]
+![Uploading Penguin Coding GIF by Pudgy Penguins.gif…]()
 
 
 # 💫 About Me:
