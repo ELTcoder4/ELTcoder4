@@ -2,130 +2,75 @@
 ![Penguin Coding GIF by Pudgy Penguins](https://github.com/user-attachments/assets/0d450271-4ec0-46bb-8230-aeab5347f0c2)
 
 
-<div align="center">
+# 💫 About Me:
 
-  <h1 style="color:#58a6ff;">💫 Hi, I'm Naman Joshi</h1>
+👋 Hi, I'm **Naman Joshi**, a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.  
+I enjoy turning ideas into reality using modern web technologies and continuously improving my skills.
 
-  <p style="max-width:700px; font-size:16px; line-height:1.6;">
-    👋 Passionate <b>Frontend Developer</b> who loves building clean, responsive,
-    and user-friendly web interfaces.<br>
-    Turning ideas into reality using modern web technologies 🚀
-  </p>
 
-</div>
+💻 Frontend Developer | Tech Enthusiast  
 
-<hr>
+I specialize in creating responsive web applications using **HTML, CSS, JavaScript**, and modern frameworks.  
+I’m always eager to learn new technologies and work on real-world projects that solve meaningful problems.
 
-<h2>💻 About Me</h2>
 
-<ul>
-  <li>🎨 Frontend Developer focused on clean UI & smooth UX</li>
-  <li>⚡ Tech Enthusiast & Continuous Learner</li>
-  <li>🧠 Enjoy building real-world, meaningful projects</li>
-</ul>
+🚀 Frontend Developer with a passion for clean UI, smooth UX, and modern web technologies.  
+Always learning, always building.
 
-<hr>
+---
 
-<h2>🌐 Connect With Me</h2>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1aGz5B58gj/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/naman4806_/?utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-joshi-b4860325b)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshinaman004@gmail.com)
 
-<p>
-  <a href="https://www.facebook.com/share/1aGz5B58gj/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/naman4806_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/naman-joshi-b4860325b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:joshinaman004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+---
 
-<hr>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h2>🛠 Tech Stack</h2>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=qt&logoColor=white">
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ELTcoder4&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ELTcoder4&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTcoder4&theme=dark&layout=compact)
 
-<hr>
+---
 
-<h2>📊 GitHub Stats</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ELTcoder4&theme=radical&margin-w=4)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ELTcoder4&theme=dark&hide_border=false" width="48%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ELTcoder4&theme=dark&hide_border=false" width="48%">
-</p>
+---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELTcoder4&theme=dark&layout=compact">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr>
+---
 
-<h2>🏆 GitHub Trophies</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ELTcoder4&limit=5&combine_all_yearly_contributions=true)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ELTcoder4&theme=radical&margin-w=4">
-</p>
+---
 
-<hr>
+[![](https://visitcount.itsvg.in/api?id=ELTcoder4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>✍️ Random Dev Quote</h2>
+---
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+## 💰 You can help me by Donating
 
-<hr>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YOUR_USERNAME)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
 
-<h2>🔝 Top Contributed Repos</h2>
-
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=ELTcoder4&limit=5&combine_all_yearly_contributions=true">
-</p>
-
-<hr>
-
-<h2>👀 Profile Visits</h2>
-
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=ELTcoder4&icon=0&color=0">
-</p>
-
-<hr>
-
-<h2>💰 Support Me</h2>
-
-<p>
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-  </a>
-  <a href="https://paypal.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-  <a href="https://patreon.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-  </a>
-  <a href="https://ko-fi.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-  <i>Always learning. Always building. 🚀</i>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  use html and css in this readme file  
