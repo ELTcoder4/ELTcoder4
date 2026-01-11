@@ -1,4 +1,4 @@
-Penguin Coding GIF by Pudgy Penguins.gif
+[!(Penguin Coding GIF by Pudgy Penguins.gif)]
 
 
 # 💫 About Me:
