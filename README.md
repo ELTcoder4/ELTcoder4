@@ -1,3 +1,6 @@
+Penguin Coding GIF by Pudgy Penguins.gif
+
+
 # 💫 About Me:
 
 👋 Hi, I'm **Naman Joshi**, a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.  
