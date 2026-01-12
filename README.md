@@ -1,5 +1,7 @@
 
-![Penguin Coding GIF by Pudgy Penguins](https://github.com/user-attachments/assets/0d450271-4ec0-46bb-8230-aeab5347f0c2)
+![Penguin Coding GIF b![gif](https://github.com/user-attachments/assets/6e1774b1-7623-466a-8a41-af5bda8f97f8)
+y Pudgy Penguins](https://github.com/user-attachments/assets/0d450271-4ec0-46bb-8230-aeab5347f0c2)
+![gif](https://github.com/user-attachments/assets/7bc23416-bec1-4fe4-8a7e-346542d1e0e3)
 
 
 <div align="center" style="padding:20px;">
